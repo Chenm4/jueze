@@ -1383,7 +1383,7 @@ body .bdshare-button-style0-16 a,body .bdshare-button-style0-16 .bds_more {
 }
 
 .fr {
-	/*float: right*/
+	float: right
 }
 
 .relative {
@@ -1623,7 +1623,7 @@ body .bdshare-button-style0-16 a,body .bdshare-button-style0-16 .bds_more {
 
 @media (max-width: 1540px) {
 	.w1400,.w1600 {
-		width: 40%
+		width: 90%
 	}
 
 	.page-banner__wrap .txt-banner h1 {
@@ -3224,7 +3224,7 @@ body .bdshare-button-style0-16 a,body .bdshare-button-style0-16 .bds_more {
 }
 
 .contact-infor__full {
-	/*width: 35.7%;*/
+	width: 35.7%;
 	padding-left: 15%
 }
 
